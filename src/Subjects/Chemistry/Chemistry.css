@@ -1,0 +1,22 @@
+.containersC{
+    height: 350px;
+    position: relative;
+    background-image: url(../../Background-Images/Chemistry-Back.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container2{
+    position: relative;
+    top: 20px;;
+}
+.image1{
+    position:absolute;
+    top :30px;
+    height:150px;
+    widows: 150px;
+}
+.container3{
+    display:flex;
+    justify-content: center;
+}

@@ -1,0 +1,52 @@
+.container2{
+      background-color: azure;
+      display: flex;
+      flex-wrap: wrap;
+}
+.containers1{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.list1{
+      align-items: center;
+}
+.list{
+   
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  
+}
+.chapter{
+    display :flex;
+    flex-wrap:wrap;
+    align-items: center;
+}
+
+.boxCover{
+display: flex;
+flex-wrap:wrap;
+/* flex-direction: row;  */
+justify-content: space-around;
+align-items: center;
+ 
+} 
+
+.box2{
+     display:flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-items: center;
+   
+}
+.box3{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+   
+   
+}

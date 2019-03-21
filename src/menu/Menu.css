@@ -1,0 +1,21 @@
+.box{
+   
+   
+    height:90px;
+    background-color: #efefef;
+    display : flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content:space-evenly;
+}
+/* .box1{
+    margin-top: 15px;
+    margin-left: 75px;
+    margin-right: 75px;
+    
+} */
+
+.aboveit{
+    position: relative;
+    z-index: 7;
+}
